@@ -9,7 +9,7 @@ export default function NotFound() {
           <CircleIcon className="size-12 text-orange-500" />
         </div>
         <h1 className="text-4xl font-bold text-gray-900 tracking-tight">
-          Page Not Found
+          Page Not Founds
         </h1>
         <p className="text-base text-gray-500">
           The page you are looking for might have been removed, had its name
